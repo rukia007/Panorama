@@ -1,3 +1,3 @@
 # Panorama
  Image of panoamas
-It's the result of our proposed iamge stitchingi method.
+It's the image stitching results of our paper named 'Fronto-parallel building facedas stitching'.
